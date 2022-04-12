@@ -24,15 +24,22 @@ fetch("main.php", {method: "get"})
         // for(let i = 0; i<7;i++){
         //     $("#cele-menu-table").append(getDailymenu(result, i, true));
         // }
-        // $("#cele-menu-table").append(getDailymenu(result, 0, true));
-        // $("#cele-menu-table").append(getDailymenu(result, 1, true));
-        // $("#cele-menu-table").append(getDailymenu(result, 2, true));
-        // $("#cele-menu-table").append(getDailymenu(result, 3, true));
-        // $("#cele-menu-table").append(getDailymenu(result, 4, true));
-        // $("#cele-menu-table").append(getDailymenu(result, 5, true));
-        // $("#cele-menu-table").append(getDailymenu(result, 6, true));
+        //$("#cele-menu-table").append(nazovDnathead(0));
+        $("#cele-menu-table").append(getDailymenu(result, 0, true));
+        //$("#cele-menu-table").append(nazovDnathead(1));
+        $("#cele-menu-table").append(getDailymenu(result, 1, true));
+        //$("#cele-menu-table").append(nazovDnathead(2));
+        $("#cele-menu-table").append(getDailymenu(result, 2, true));
+        //$("#cele-menu-table").append(nazovDnathead(3));
+        $("#cele-menu-table").append(getDailymenu(result, 3, true));
+        //$("#cele-menu-table").append(nazovDnathead(4));
+        $("#cele-menu-table").append(getDailymenu(result, 4, true));
+        //$("#cele-menu-table").append(nazovDnathead(5));
+        $("#cele-menu-table").append(getDailymenu(result, 5, true));
+        //$("#cele-menu-table").append(nazovDnathead(6));
+        $("#cele-menu-table").append(getDailymenu(result, 6, true));
         // console.log(allDays(result,$("#cele-menu-table")));
-        allDays(result,$("#cele-menu-table"));
+        //allDays(result,$("#cele-menu-table"));
     });
 
 function allDays(menu,table){

@@ -1,0 +1,75 @@
+{
+  "timestamp": 1649338411,
+  "data": [
+    {
+      "date": "04.04.2022",
+      "day": "Pondelok",
+      "menu": [
+        "Karfiolov\u00e1 s halu\u0161kami 0,33l (1,3)",
+        "B\u0159eclavsk\u00e9 kar\u00e9 (uhorka, slanina, \u0161unka), ry\u017ea, obloha",
+        "Kurac\u00ed mlet\u00fd reze\u0148 so syrom, ry\u017ea, obloha (1,3,7)",
+        "Paradajkov\u00e1 kapusta, fa\u0161\u00edrka, zemiaky (1,3,7)",
+        "\u0160pen\u00e1tov\u00e9 gnocchi so syrovou om\u00e1\u010dkou (1,3,7)",
+        "GURM\u00c1N: Brav\u010dov\u00e1 panenka na hr\u00edbovo-smotanovej om\u00e1\u010dke, opekan\u00e9 zemiaky, obloha (1,3,7)"
+      ]
+    },
+    {
+      "date": "05.04.2022",
+      "day": "Utorok",
+      "menu": [
+        "Rascov\u00e1 s vajcom 0,33l",
+        "Pe\u010den\u00e9 brav\u010dov\u00e9 kocky, dusen\u00e1 kapusta, dom\u00e1ca kned\u013ea (1,3)",
+        "Kuracie rezance",
+        "Hov\u00e4dz\u00ed perkelt, dom\u00e1ce halu\u0161ky (1,3,7)",
+        "Brokolicov\u00e9 nugetky, zemiaky, obloha (1,3,7)",
+        "GURM\u00c1N: Vypr\u00e1\u017ean\u00fd hermel\u00edn, hranolky, tat\u00e1rska om\u00e1\u010dka (1,3,7)"
+      ]
+    },
+    {
+      "date": "06.04.2022",
+      "day": "Streda",
+      "menu": [
+        "Fazu\u013eov\u00e1 so zeleninou 0,33l",
+        "Brav\u010dov\u00fd pl\u00e1tok na hr\u00edboch , tarho\u0148a, obloha (10)",
+        "Kuracie pe\u010den\u00e9 stehno na citr\u00f3novej om\u00e1\u010dke, ry\u017ea",
+        "Kolo\u017ev\u00e1rska kapusta, zemiaky (1,3,7)",
+        "Tofu na zelenine, ry\u017ea, obloha (1,3,7)",
+        "GURM\u00c1N: Jelenie rezy, karlovarsk\u00e1 kned\u013ea (1,3,7)"
+      ]
+    },
+    {
+      "date": "07.04.2022",
+      "day": "\u0160tvrtok",
+      "menu": [
+        "Kuracia polievka s rezancami 0,33l (1,3)",
+        "Varen\u00e9 \u00faden\u00e9, smotanovo-\u0161ampi\u0148\u00f3nov\u00e1 om\u00e1\u010dka, zemiaky (1,7)",
+        "Kuracia rol\u00e1da plnen\u00e1 \u0161pen\u00e1tom, ry\u017ea, obloha",
+        "Plnen\u00e1 paprika, paradjkov\u00e1 om\u00e1\u010dka, dom\u00e1ca kned\u013ea (1,3,7)",
+        "\u0160o\u0161ovicov\u00fd pr\u00edvarok, vyjce\/\u0161pek\u00e1\u010dik, chlieb (1,3,7)",
+        "GURM\u00c1N: Vypr\u00e1\u017ean\u00fd losos v zlatej str\u00fahanke, zemiaky, tat\u00e1rska om\u00e1\u010dka (1,3,7)"
+      ]
+    },
+    {
+      "date": "08.04.2022",
+      "day": "Piatok",
+      "menu": [
+        "Bor\u0161\u010d 0,33l",
+        "Brav\u010dov\u00fd pl\u00e1tok po tirolsky(slanina, p\u00f3r, \u0161ampi\u0148\u00f3ny, smotana)tarho\u0148a, obloha (1,3,7)",
+        "Kuracie prsia s anan\u00e1som, ry\u017ea, obloha",
+        "M\u00e4sov\u00e9 lasagne, obloha (1,3,7)",
+        "Vypr\u00e1\u017ean\u00e9 tofu v bylinkovom cest\u00ed\u010dku, zemiaky, oblooha (1,3,7)",
+        "GURM\u00c1N: Brav\u010dov\u00e1 panenka - \"Po\u013eovn\u00edk\", zemiakov\u00e1 ka\u0161a, obloha (1,7)"
+      ]
+    },
+    {
+      "date": "09.04.2022",
+      "day": "Sobota",
+      "menu": []
+    },
+    {
+      "date": "09.04.2022",
+      "day": "",
+      "menu": []
+    }
+  ]
+}

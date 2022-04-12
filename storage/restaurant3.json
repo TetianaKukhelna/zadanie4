@@ -1,0 +1,65 @@
+{
+  "timestamp": 1649591239,
+  "data": [
+    {
+      "date": "04.04.2022",
+      "day": "Pondelok",
+      "menu": [
+        "P. Kuracia so zeleninou a rezancami 0,3l1.00\u20ac",
+        "1. Brav\u010dov\u00fd gul\u00e1\u0161 na pive, paren\u00e1 kned\u013ea 100g,150g4.60\u20ac",
+        "2. Kuracie prsia na grile, syrov\u00e1 om\u00e1\u010dka, pe\u010den\u00e9 zemiaky s rozmar\u00ednom 100g,100g,150g4.60\u20ac",
+        "3. Cestoviny s medved\u00edm cesnakom a grilovan\u00fdm hermel\u00ednom 300g4.60\u20ac"
+      ]
+    },
+    {
+      "date": "05.04.2022",
+      "day": "Utorok",
+      "menu": [
+        "P. Fazu\u013eov\u00e1 s klob\u00e1sou a rezancami 0,3l1.00\u20ac",
+        "1. Kuracie prsia vo vaj\u00ed\u010dku, ry\u017ea, cvikla 100g,150g,100g4.60\u20ac",
+        "2. Kuracia pe\u010de\u0148 v zemiakovej lok\u0161i 300g4.60\u20ac",
+        "3. Tvarohov\u00e1 \u017eem\u013eovka s ovoc\u00edm parfumovan\u00e1 \u0161koricou, pod\u00e1van\u00e1 s ovocnou om\u00e1\u010dkou 350g4.60\u20ac"
+      ]
+    },
+    {
+      "date": "06.04.2022",
+      "day": "Streda",
+      "menu": [
+        "P. Zeleninov\u00fd bor\u0161\u010d 0,3l1.00\u20ac",
+        "1. Pe\u010den\u00e9 kuracie stehno na mede, \u017eem\u013eov\u00e1 plnka, ry\u017ea 200g,100g,100g4.60\u20ac",
+        "2. Brav\u010dov\u00e9 a kuracie rezance v tortile s \u010derstv\u00fdm \u0161al\u00e1tom a dijonskym dressingom 300g4.60\u20ac",
+        "3. Karfiolov\u00e9 kar\u00ed s kokosov\u00fdm mliekom, indi\u00e1nska ry\u017ea 150g,150g4.60\u20ac"
+      ]
+    },
+    {
+      "date": "07.04.2022",
+      "day": "\u0160tvrtok",
+      "menu": [
+        "P. Kr\u00fapov\u00e1 so zeleninou a lesn\u00fdmi hubami 0,3l1.00\u20ac",
+        "1. Pe\u010den\u00e1 krkovi\u010dka na cesnaku, restovan\u00e9 zemiaky, tzatziky 100g,150g,100g4.60\u20ac",
+        "2. Kuracie rezance s wok zeleninou, ry\u017ea 120g,150g4.60\u20ac",
+        "3. Coleslaw \u0161al\u00e1t s falafelom 300g4.60\u20ac"
+      ]
+    },
+    {
+      "date": "08.04.2022",
+      "day": "Piatok",
+      "menu": [
+        "P. Kr\u00e9movo smotanov\u00e1 s medved\u00edm cesnakom a krut\u00f3nmi 0,3l1.00\u20ac",
+        "1. Vypr\u00e1\u017ean\u00e9 rybie fil\u00e9, slovensk\u00fd zemiakov\u00fd \u0161al\u00e1t 120g,200g4.60\u20ac",
+        "2. Zapekan\u00e9 kuracie prsia s paradajkou a mozzarellou, ry\u017ea 100g,150g4.60\u20ac",
+        "3. Caesar \u0161al\u00e1t s grilovanou panenkou alebo tofu 300g4.60\u20ac"
+      ]
+    },
+    {
+      "date": "09.04.2022",
+      "day": "Sobota",
+      "menu": []
+    },
+    {
+      "date": "10.04.2022",
+      "day": "Nede\u013ea",
+      "menu": []
+    }
+  ]
+}
